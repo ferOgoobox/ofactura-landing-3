@@ -719,9 +719,9 @@ ol.digit-list p {
   font-weight: 500;
   padding: 16px 32px;
   border: 1px solid transparent;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
   -webkit-transition: all 400ms ease-in-out;
   -moz-transition: all 400ms ease-in-out;
   -o-transition: all 400ms ease-in-out;
@@ -814,10 +814,30 @@ ol.digit-list p {
   border-color: #1d293f!important;
 }
 
+/* START CSS  btn Ofactura*/
+.btn-ofactura, 
+.white-color .btn-ofactura {
+  color: #fff !important;
+  background-color: #6462E7 !important;
+  border-color: #6462E7 !important;
+}
+
+.btn-tra-ofactura, 
+.white-color .btn-tra-ofactura {
+  color: #6462E7 !important;
+  background-color: #fff !important;
+  border-color: #6462E7!important;
+} 
+
+.a-ofactura {
+  color: #6462E7 !important;
+}
+/* END CSS btn Ofactura */
+
 .btn-grey, 
 .white-color .btn-grey {
   color: #666;
-  background-color: rgba(17, 36, 70, .04);
+  background-color: #6462E7;
   border-color: rgba(17, 36, 70, .02)!important;
 }
 
@@ -3687,10 +3707,10 @@ p.terms-txt a,
   -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .05);
   -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .05);
   box-shadow: 0 5px 10px rgba(0, 0, 0, .05);
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
   -webkit-transition: all 450ms ease-in-out;
   -moz-transition: all 450ms ease-in-out;
   -o-transition: all 450ms ease-in-out;
@@ -5620,9 +5640,9 @@ h2.statistic-number {
   min-width: 310px;
   border: 1px solid #dbe4f1;
   padding: 25px 20px;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;  
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;  
 }
 
 .os-btn-txt {
@@ -5894,10 +5914,10 @@ span.release-date span {
   font-size: 1.125rem;
   padding: 0 15px;  
   border: 1px solid #ccc;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
 }
 
 .rtl-direction #newsletter-2.newsletter-section .form-control {
