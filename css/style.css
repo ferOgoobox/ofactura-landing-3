@@ -2555,7 +2555,7 @@ p.terms-txt a,
   color: red !important;
 } */
 .wsmenu-list li:not(.btn) a:hover {
-  color: red;
+  color: rgb(163, 162, 162);
 }
 
 /*------------------------------------------*/

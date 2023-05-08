@@ -430,14 +430,14 @@
 					},
 					messages:{
 							name:{
-								required: "Please enter no less than (1) characters"
+								required: "Por favor ingresa tu nombre"
 							}, 
 							email:{
-								required: "We need your email address to contact you",
-								email: "Your email address must be in the format of name@domain.com"
+								required: "Necesitamos tu dirección de correo electrónico para contactarte",
+								email: "Su dirección de correo electrónico debe tener el formato name@dominio.com"
 							}, 
 							message:{
-								required: "Please enter no less than (2) characters"
+								required: "Por favor ingresa tu mensaje"
 							}, 
 						}
 		});
