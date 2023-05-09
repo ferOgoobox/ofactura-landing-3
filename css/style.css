@@ -2379,6 +2379,14 @@ p.terms-txt a,
   box-shadow: none;
 }
 
+.ofactura-menu .wsmainfull {
+  background-color: white!important;
+  padding: 5px 0;
+  -webkit-box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
+  -moz-box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
+  box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
+}
+
 .white-menu .wsmainfull {
   background-color: #fff!important;
   padding: 5px 0;
