@@ -1893,6 +1893,19 @@ span.os-version {
 .yellow-color span,
 .white-color .yellow-color { color: #ffb30c; }
 
+.ofactura-color,
+.ofactura-color h2, 
+.ofactura-color h3, 
+.ofactura-color h4, 
+.ofactura-color h5, 
+.ofactura-color h6, 
+.ofactura-color p, 
+.ofactura-color a, 
+.ofactura-color li,
+.ofactura-color i, 
+.ofactura-color span,
+.white-color .ofactura-color { color: #6a26da; }
+
 /*------------------------------------------*/
 /*  TEXT BLOCK
 /*------------------------------------------*/ 
