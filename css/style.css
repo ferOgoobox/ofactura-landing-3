@@ -7588,3 +7588,9 @@ p.forgot-password {
 nav a#pull {  
   display: none;  
 }
+
+.video {
+  border-radius: 25px; 
+  box-shadow: 0 0 20px rgba(132, 131, 131, 0.4) !important; 
+  width: 93% !important;
+}
